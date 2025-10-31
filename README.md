@@ -120,3 +120,9 @@ Creational patterns focus on object creation mechanisms, improving flexibility a
 **Devashish Roy (GitHub: [roydevashish](https://github.com/roydevashish))**  
 
 ⭐ *If this repository helped you understand Go design patterns, consider starring it.*
+
+---
+
+## References
+- [Master Design Patterns & SOLID Principles in C# - Full OOP Course for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=rylaiB2uH2A)
+- [SOLID Principles in One Video 🔥 | Clean Code & OOP Design Simplified for Developers by Coder's Gyan](https://www.youtube.com/watch?v=jlnhHxzC9-w)
